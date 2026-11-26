@@ -4,7 +4,7 @@ from travelbuddy.calculator import add, split_cost, total_trip_cost
 
 
 def test_add():
-    assert add(2, 2) == 5
+    assert add(2, 2) == 4
 
 
 def test_total_trip_cost():
